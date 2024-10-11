@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://cytersiu.github.io/sitemap.html.gz
+Sitemap: https://cytersiu.github.io/app/sitemap.html.gz
+Sitemap: https://cytersiu.github.io/assets/sitemap.html.gz
+Sitemap: https://cytersiu.github.io/css/sitemap.html.gz
+Sitemap: https://cytersiu.github.io/includes/sitemap.html.gz
+Sitemap: https://cytersiu.github.io/item/sitemap.html.gz
+Sitemap: https://cytersiu.github.io/src/sitemap.html.gz
